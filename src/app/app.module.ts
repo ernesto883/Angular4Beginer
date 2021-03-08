@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { Test1Component } from './test1/test1.component';
 import { FormsModule } from '@angular/forms';
 import { WellcomeMessageComponent } from './wellcome-message/wellcome-message.component';
+import {LoginComponent} from ' ./login/login.component';
 
 @NgModule({
   declarations: [
